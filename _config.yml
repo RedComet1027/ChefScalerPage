@@ -12,7 +12,7 @@ presskit_download_link                    : https://emilbaehr.com               
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 2Scale your recipes with ease.
+app_description                           : 1Scale your recipes with ease.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -78,13 +78,12 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#ffffff"
-topbar_transparency                       : 0.8
+topbar_transparency                       : 0.1
 topbar_title_color                        : "#000000"
 
-#cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_image                               :  
+cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL. 
 cover_overlay_color                       : "#ffffff"
-cover_overlay_transparency                : 0.8
+cover_overlay_transparency                : 1.0
 
 device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
